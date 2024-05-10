@@ -1,2 +1,2 @@
 # -webpage-password-Protected
-Password (welcome)
+Password:  welcome
